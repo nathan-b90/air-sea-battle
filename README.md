@@ -60,11 +60,15 @@ _______________
 
 Third party stuff
 
-All additional audio - Freesound.org
-Used Audacity for a bit of sound editing
-Fonts ‘Commodore Pixelized v1.2’ and ‘8-bit-pusab’ - DaFont
-Used pixelart.com to make flag assets
-Camera effect shader from ShaderToy (shadertoy.com/view/Ms23DR) 
+• All additional audio - Freesound.org
+
+• Used Audacity for a bit of sound editing
+
+• Fonts ‘Commodore Pixelized v1.2’ and ‘8-bit-pusab’ - DaFont
+
+• Used pixelart.com to make flag assets
+
+• Camera effect shader from ShaderToy (shadertoy.com/view/Ms23DR) 
 
 _______________
 
